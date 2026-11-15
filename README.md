@@ -1,5 +1,6 @@
-# Asahi Startup Disk v1.4.3 — KDE Plasma Edition
 
+# Asahi Startup Disk v1.4.3 — KDE Plasma Edition
+<img width="2201" height="1481" alt="Screenshot_20261115_180229" src="https://github.com/user-attachments/assets/5ff8d7b3-60d1-4ed7-8868-6d3b4947d95b" />
 **Developer:** Ryan  
 **Platform:** Apple Silicon Macs running Asahi Linux  
 **Status:** Experimental release — boot-selection functionality has not yet been hardware-validated.
