@@ -52,8 +52,8 @@ Ensure a graphical Polkit authentication agent is running.
 Download `asahi-startup-disk-plasma-v1.4.3-final.zip` from the release assets, then:
 
 ```bash
-unzip asahi-startup-disk-plasma-v1.4.3-final.zip
-cd plasma-startup-disk
+unzip Asahi-Startup-Disk-v1.4.3-final.zip
+cd Asahi-Startup-Disk-v1.4.3-final
 ./install.sh
 ```
 
