@@ -77,6 +77,11 @@ From the extracted project directory:
 
 Confirm the removal prompt. The script removes application-installed files while preserving shared system dependencies and boot settings. Keep the extracted project directory if you may need to uninstall later.
 
+## Changes in v1.4.4
+
+- Adjsted icons. 
+- Continued Refining UI.
+
 ## Changes in v1.4.3
 
 - Adjusted the sidebar so **Asahi Startup Disk** appears on one line.
