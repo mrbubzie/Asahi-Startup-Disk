@@ -1,7 +1,7 @@
 
-# Asahi Startup Disk v1.4.3 — KDE Plasma Edition
+# Asahi Startup Disk v1.4.4 — KDE Plasma Edition
 
-<img width="2201" height="1481" alt="Screenshot_20261115_180229" src="https://github.com/user-attachments/assets/5ff8d7b3-60d1-4ed7-8868-6d3b4947d95b" />
+<img width="2546" height="1525" alt="Screenshot_20261116_015932" src="https://github.com/user-attachments/assets/28890689-9f1f-476f-ac4e-8e1650b6641d" />
 
 ## Overview
 
