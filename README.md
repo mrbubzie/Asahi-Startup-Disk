@@ -1,14 +1,16 @@
 # Asahi Startup Disk — 2.0 RC1
 
-A GTK4/Rust graphical startup-disk selector for Apple Silicon Macs running Asahi Linux. Developer: Ryan.
+<img width="2560" height="1590" alt="Screenshot_20261116_202033" src="https://github.com/user-attachments/assets/262252df-0d62-4f50-b4ab-6ca6c5dff868" />
 
 ## Install
 
 Requires Rust/Cargo, GTK4 development libraries, pkg-config, Python 3, polkit/pkexec, a graphical polkit authentication agent, and sudo. Run as your normal user:
 
 ```bash
-chmod +x install.sh uninstall.sh
-./install.sh
+unzip Asahi-Startup-Disk-2.0-RC1-final.zip
+cd Asahi-Startup-Disk-2.0-RC1-final
+chmod +x install.sh or uninstall.sh if you wish to uninstall
+./install.sh or ./uninstall.sh
 ```
 
 Launch **Asahi Startup Disk** from the KDE application menu, or run `asahi-startup-disk-rust`.
