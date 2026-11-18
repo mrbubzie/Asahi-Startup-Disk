@@ -1,14 +1,17 @@
-# Asahi Startup Disk — 2.0 RC1
+# Asahi Startup Disk — 2.0-Final
 
-<img width="2560" height="1590" alt="Screenshot_20261116_202033" src="https://github.com/user-attachments/assets/262252df-0d62-4f50-b4ab-6ca6c5dff868" />
+<img width="2559" height="1585" alt="Screenshot_20261117_200612" src="https://github.com/user-attachments/assets/7e518762-c576-4f71-8253-2aa79e2bcc31" />
 
 ## Install
 
 Requires Rust/Cargo, GTK4 development libraries, pkg-config, Python 3, polkit/pkexec, a graphical polkit authentication agent, and sudo. Run as your normal user:
 
+## Recent Changes 2.0-Final
+- Refresh button proportions changed and aligned and general bugfixes.
+
 ```bash
-unzip Asahi-Startup-Disk-2.0-RC1-final.zip
-cd Asahi-Startup-Disk-2.0-RC1-final
+unzip Asahi-Startup-Disk-2.0-final.zip
+cd Asahi-Startup-Disk-2.0-final
 chmod +x install.sh or uninstall.sh if you wish to uninstall
 ./install.sh or ./uninstall.sh
 ```
@@ -29,9 +32,6 @@ Only `list`, `set-default`, and `set-next` commands are accepted; write operatio
 
 The uninstaller removes the installed application and bundled assets, not shared system dependencies.
 
-## Safety and limitations
-
-This is a release candidate, not hardware-verified software. Changing Apple Silicon boot settings can make a system unbootable. Keep a recovery path available. Do not run simultaneous NVRAM-changing utilities. The application does not automatically reboot, and the boot-picker option is informational only. OS identification is best-effort and may not identify unmounted installations.
 
 ## Credits
 
