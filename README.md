@@ -13,8 +13,8 @@ Requires Rust/Cargo, GTK4 development libraries, pkg-config, Python 3, polkit/pk
 
 
 ```bash
-unzip Asahi-Startup-Disk-2.0-final.zip
-cd Asahi-Startup-Disk-2.0-final
+unzip Asahi-Startup-Disk-2.1-final.zip
+cd Asahi-Startup-Disk-2.1-final
 chmod +x install.sh or uninstall.sh if you wish to uninstall
 ./install.sh or ./uninstall.sh
 ```
