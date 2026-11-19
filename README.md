@@ -7,7 +7,8 @@
 Requires Rust/Cargo, GTK4 development libraries, pkg-config, Python 3, polkit/pkexec, a graphical polkit authentication agent, and sudo. Run as your normal user:
 
 ## Recent Changes 2.1-Final
-- General fixes and a brandnew KDE Plasma widget for quick access.
+- General fixes and a brand new KDE Plasmamoid widget for quick access on the taskbar(optional) and can be refused during install.
+
 <img width="942" height="806" alt="Screenshot_20261118_210519" src="https://github.com/user-attachments/assets/33498c89-3200-4bc3-b860-3a2692a7151e" />
 
 
