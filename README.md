@@ -1,4 +1,4 @@
-# Asahi Startup Disk — 2.0-Final
+# Asahi Startup Disk — 2.1-Final
 
 <img width="2559" height="1585" alt="Screenshot_20261117_200612" src="https://github.com/user-attachments/assets/7e518762-c576-4f71-8253-2aa79e2bcc31" />
 
@@ -6,8 +6,10 @@
 
 Requires Rust/Cargo, GTK4 development libraries, pkg-config, Python 3, polkit/pkexec, a graphical polkit authentication agent, and sudo. Run as your normal user:
 
-## Recent Changes 2.0-Final
-- Refresh button proportions changed and aligned and general bugfixes.
+## Recent Changes 2.1-Final
+- General fixes and a brandnew KDE Plasma widget for quick access.
+<img width="942" height="806" alt="Screenshot_20261118_210519" src="https://github.com/user-attachments/assets/33498c89-3200-4bc3-b860-3a2692a7151e" />
+
 
 ```bash
 unzip Asahi-Startup-Disk-2.0-final.zip
